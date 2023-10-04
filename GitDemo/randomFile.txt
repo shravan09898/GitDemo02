@@ -1,2 +1,4 @@
 This is a new file -- V1
 add new line - v2
+
+Added changes after commit
